@@ -1,6 +1,6 @@
 This package is built as a submission to **Assignment 1**
 
-**Submitted by:**Siya Khosla(102303735)
+Submitted by: Siya Khosla(102303735)
 
 ---
 
@@ -45,7 +45,7 @@ topsis data.csv 1,1,1,1,1 +,+,-,+,+ result.csv
 
 ##  Example
 
-### 📥 Input Dataset (`data.csv`)
+###  Input Dataset (`data.csv`)
 
 | Fund Name | P1 | P2 | P3 | P4 | P5 |
 |----------|----|----|----|----|----|
