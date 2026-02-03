@@ -1,4 +1,4 @@
-LICENSE
+licence
 README.md
 setup.py
 topsis/__init__.py
