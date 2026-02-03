@@ -21,7 +21,7 @@ Use this package as a WebApp here.
 Use the package manager **pip** to install the package:
 
 ```bash
-pip install Topsis-VSiya Khosla-102303742
+pip install Topsis-Siya Khosla-102303742
 ```
 
 ---
