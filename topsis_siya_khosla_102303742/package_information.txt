@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: topsis-siyakhosla-102303742
+Version: 0.1
+Summary: TOPSIS implementation using Python
+Author: Siya Khosla
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

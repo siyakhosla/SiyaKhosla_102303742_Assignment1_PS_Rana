@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+topsis/__init__.py
+topsis/topsis.py
+topsis_siyakhosla-102303742.egg-info/PKG-INFO
+topsis_siyakhosla-102303742-info/SOURCES.txt
+topsis_siyakhosla-102303742-info/dependency_links.txt
+topsis_siyakhosla-102303742-info/entry_points.txt
+topsis_siyakhosla-102303742-info/requires.txt
+topsis_siyakhosla-102303742-info/top_level.txt
