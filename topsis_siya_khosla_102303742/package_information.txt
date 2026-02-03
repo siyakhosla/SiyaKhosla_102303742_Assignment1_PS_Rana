@@ -3,7 +3,7 @@ Name: topsis-siyakhosla-102303742
 Version: 0.1
 Summary: TOPSIS implementation using Python
 Author: Siya Khosla
-License-File: LICENSE
+License-File: license_
 Requires-Dist: pandas
 Requires-Dist: numpy
 Dynamic: author
