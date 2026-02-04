@@ -10,11 +10,10 @@ Submitted by: Siya Khosla(102303735)
 
 ---
 
-##  Web Application
+## Web Application
 
 You can access the deployed website here:  
-[Click here to open the website](https://tourmaline-panda-0febac.netlify.app/)
-
+[Click here to open the website](https://bucolic-piroshki-6ad3f5.netlify.app/)
 
 
 ---
