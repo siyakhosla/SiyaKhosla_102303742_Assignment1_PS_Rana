@@ -12,7 +12,9 @@ Submitted by: Siya Khosla(102303735)
 
 ##  Web Application
 
- **Live Website:** [Click here](https://tourmaline-panda-0febac.netlify.app/)
+You can access the deployed website here:  
+[Click here to open the website](https://tourmaline-panda-0febac.netlify.app/)
+
 
 
 ---
